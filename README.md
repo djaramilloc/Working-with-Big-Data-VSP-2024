@@ -35,7 +35,7 @@ With a working knowledge of these tools, students will be ready to learn about a
 
 
 ## Course Structure
-This course consists of 13 3-hour classes. Roughly the first half of each class will be dedicated to lecture. After lecture, there will be a short break. The remainder of the class period will be spent working on a lab assignment or the final project. Students will generally finish the lab assignments in class. If lab assignments are not finished in class, students must submit them **within 48 hours of the end of class**. 
+This course consists of 13 3-hour classes (3 credit course equivalent). Roughly the first half of each class will be dedicated to lecture. After lecture, there will be a short break. The remainder of the class period will be spent working on a lab assignment or the final project. Students will generally finish the lab assignments in class. If lab assignments are not finished in class, students must submit them **within 48 hours of the end of class**. 
 
 Students will also work on a group project both in and out of class. On the final exam day, students will present their project instead of taking a final exam. More details on that final project and presentation will be shared in class. 
 
@@ -57,55 +57,52 @@ Lecture: Big Data, course description, introduction to GitHub, Jupyter, & Python
 Lab: Sign up for GitHub, access Jupyter Open, create & clone repositories
 
 ### Day 2 (July 17)
-Lecture: Python fundamentals & collections \
-Lab Assignment 1: Python fundamentals & collections
+Lecture: Python fundamentals \
+Lab Assignment 1: Python fundamentals
 
 ### Day 3 (July 18)
-Lecture: Control flow & functions \
-Lab Assignment 2: Control flow & functions
+Lecture: Collections \
+Lab Assignment 2: Collections & Control flow
 
 ### Day 4 (July 19)
-Lecture: Introduction to data & Pandas \
+Lecture: Control Flow \
 Lab: Introduction to project, getting into groups, start project
 
 ### Day 5 (July 22)
-Lecture: More data & Pandas \
-Lab Assignment 3: Data & Pandas
+Lecture: Functions \
+Lab Assignment 3: Functions
 
 ### Day 6 (July 23)
-Lecture: Introduction to arrays, matrix algebra, & NumPy\
-Lab Assignment 4: Arrays, matrix algebra, & NumPy
+Lecture: Introduction to data & Pandas \
+Lab Assignment 4: Data & Pandas
 
 ### Day 7 (July 24)
-Lecture: Basic plotting & mapping\
-Lab: Working on project in groups. You should be collecting data, figuring out topic(s)/story, thinking of visualizations, and preparing your proposal. 
+Lecture: More data & Pandas \
+Lab: Work on group project
 
 ### Day 8 (July 25)
-Lecture: Geospatial Tools \
-Lab: Working on project in groups. You should be coding up preliminary descriptive statistics and visualizations that are relevant to your selected topic(s). 
+Lecture: Introduction to arrays, matrix algebra, & NumPy\
+Lab Assignment 5: Arrays, matrix algebra, & NumPy
 
 ### Day 9 (July 26)
-Lecture: Introduction to regression \
-Lab Assignment 5: Regression
- 
+Lecture: Basic plotting & mapping\
+Lab: Working on project in groups. You should be collecting data, figuring out topic(s)/story, thinking of visualizations 
+
 ### Day 10 (July 29)
+Lecture: Introduction to regression \
+Lab Assignment 6: Regression
+ 
+### Day 11 (July 30)
 Lecture: More regression \
 Lab: Working on Projects in groups. Should be refining descriptive statistics and figures and begin writing up some text in Jupyter Notebook.
 
-### Day 11 (July 30)
+### Day 12 (July 31)
 Lecture: Introduction to Classification \
 Lab: Working on project in groups. You should be integrating figures, descriptive statistics, and writing into Jupyter Notebook. You should also start thinking of which classification and/or regression models you will run.
 
-### Day 12 (July 31)
+### Day 13 (August 1)
 Lecture: Classification Continued \
 Lab: Working on project in groups. You should be running your analyses and thinking about how to frame them. 
 
-### Day 13 (August 1)
-Lecture: Optional topics: Natural Language Processing, Neural Networks, Transformers, Webscrapping \
-Lab: Working on project in groups. You should be finalizing your analyses, polishing the project, running details by me, preparing for the presentation, and doing anything else that needs to be done. At this point, you want to be almost finished. 
-
 ### Day 14 (August 2)
 When you get to class, you will received an aditional hour of time to work on your project or presentation. At the end of that time, your project must be submitted to me on Canvas. Then, each group will present their project for the remaining two hours.
-
-
-
